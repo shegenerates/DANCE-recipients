@@ -15,4 +15,5 @@ list of recipients for DANCE airdrop.
 - Gen0 Cryptokitty holders
 - Decentraland parcel holders
 - Cryptovoxels area holders
+- Misfit University holders
 - @Shegenerates first 2000 followers
